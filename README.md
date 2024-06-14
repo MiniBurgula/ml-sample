@@ -1,2 +1,2 @@
 # ml-sample
-Sample code
+Sample code for Prompt Engineering, RAG
